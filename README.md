@@ -8,6 +8,7 @@ Hardware details:
 * 1x  0.1uF ceramic capcitor
 * 1x  47uF capacitor(5x5.3)
 * 1x  DIP 20 socket
+* 1x  0ohm resistor
 * 10x 510ohm resistor
 * 1x  led
 * 1x  30k resistor
