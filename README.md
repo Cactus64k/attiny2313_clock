@@ -1,5 +1,4 @@
-# attiny2313_clock
-Simple clock using attiny2313 and 7 segment indicator
+Simple clock using ATTiny2313 and 7 segment indicator
 =======================================================
 
 Hardware details:
@@ -15,6 +14,7 @@ Hardware details:
 * 1x  FYQ-3641AS led display
 
 You also need UART->USB converter.
+Baud rate is 9600
 To show time run watch "date +%H:%M > /dev/ttyUSB0"
 
 <img src="/img/cheme.png" width="350"/>
