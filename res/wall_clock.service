@@ -1,0 +1,9 @@
+[Unit]
+Description=Wall clock update service
+
+[Service]
+ExecStart=/opt/wall_clock.sh
+ExecReload=/bin/kill -s TERM $MAINPID
+
+[Install]
+WantedBy=multi-user.target
