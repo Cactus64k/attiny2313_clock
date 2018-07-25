@@ -14,6 +14,8 @@ Hardware details:<br/>
 * 1x  30k resistor
 * 1x  FYQ-3641AS led display
 
+All smd components is 1206 size<br/>
+
 You also need UART->USB converter or MAX3232.<br/>
 Baud rate is 9600<br/>
 You need pick files to folders:<br/>
